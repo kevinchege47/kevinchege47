@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Spring Boot.
 - 💞️ I’m looking to collaborate on solutions that solve real world problems.
 - 📫 How to reach me - [Send an email to] chegekevin000@gmail.com
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinchege47)](https://github.com/anuraghazra/github-readme-stats)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinchege47&show_icons=true&theme=merko)
 
