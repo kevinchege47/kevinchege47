@@ -5,3 +5,4 @@
 - 💞️ I’m looking to collaborate on solutions that solve real world problems.
 - 📫 How to reach me - [Send an email to] chegekevin000@gmail.com
 - [![GitHub Streak](https://streak-stats.demolab.com?user=kevinchege47&theme=merko&hide_border=true&border_radius=7.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinchege47)](https://github.com/anuraghazra/github-readme-stats)
