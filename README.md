@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on solutions that solve real world problems.
 - 📫 How to reach me - [Send an email to] chegekevin000@gmail.com
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinchege47&show_icons=true&theme=great-gatsby)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinchege47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=kevinchege47)](https://git.io/streak-stats)
